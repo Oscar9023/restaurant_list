@@ -8,7 +8,9 @@
 
 ## How to use
 1. Use Terminal and clone this project
+    ```
     git clone https://github.com/Oscar9023/restaurant_list.git
+    ```
 2. Cd to `restaurant_list` folder
 3. Install nodemon
     ```
