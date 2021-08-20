@@ -12,9 +12,9 @@
     git clone https://github.com/Oscar9023/restaurant_list.git
     ```
 2. Cd to `restaurant_list` folder
-3. Install nodemon
+3. Install npm & nodemon
     ```
-    npm install -g nodemon
+    npm install
     ```
 4. Run app.js
     ```
